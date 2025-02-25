@@ -1,0 +1,5 @@
+Jak The Beauty Game funguje:
+Øeknìme, že 20 lidí si zvolí èíslo od 1 od 100.
+Každý se však snaží trefit svoje èíslo co nejblíže 2/3 prùmìru všech.
+
+Napø. Kdyby každý vybral 100, tak prùmìr je 100. Vydìlím 2/3 a mám 66. Kdo byl nejblíže 66 vyhrál.

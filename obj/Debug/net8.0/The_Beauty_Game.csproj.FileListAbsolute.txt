@@ -1,0 +1,4 @@
+C:\Users\fencl\source\repos\The_Beauty_Game\The_Beauty_Game\obj\Debug\net8.0\The_Beauty_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fencl\source\repos\The_Beauty_Game\The_Beauty_Game\obj\Debug\net8.0\The_Beauty_Game.AssemblyInfoInputs.cache
+C:\Users\fencl\source\repos\The_Beauty_Game\The_Beauty_Game\obj\Debug\net8.0\The_Beauty_Game.AssemblyInfo.cs
+C:\Users\fencl\source\repos\The_Beauty_Game\The_Beauty_Game\obj\Debug\net8.0\The_Beauty_Game.csproj.CoreCompileInputs.cache
